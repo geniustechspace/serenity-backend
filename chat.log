@@ -1,0 +1,543 @@
+2024-10-10 22:30:19,123 - ERROR - Model not found. Training the model.
+2024-10-10 22:30:21,970 - INFO - Model trained and saved successfully.
+2024-10-10 22:30:21,975 - INFO - Starting the application...
+2024-10-10 22:30:26,308 - INFO - Model loaded from disk.
+2024-10-10 22:30:26,308 - INFO - Model successfully loaded.
+2024-10-10 22:31:55,406 - ERROR - Error during prediction: 'NoneType' object is not subscriptable
+2024-10-10 22:35:19,426 - INFO - Model loaded from disk.
+2024-10-10 22:35:19,426 - INFO - Model successfully loaded.
+2024-10-10 22:35:35,499 - ERROR - Intents data not loaded.
+2024-10-10 22:35:35,499 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Sorry, I don't understand."}
+2024-10-10 22:35:48,505 - ERROR - Intents data not loaded.
+2024-10-10 22:35:48,505 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Sorry, I don't understand."}
+2024-10-10 22:37:55,299 - ERROR - Intents data not loaded.
+2024-10-10 22:37:55,300 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Sorry, I don't understand."}
+2024-10-10 22:38:01,631 - INFO - Model loaded from disk.
+2024-10-10 22:38:01,631 - INFO - Model successfully loaded.
+2024-10-10 22:40:24,450 - INFO - Model loaded from disk.
+2024-10-10 22:40:24,450 - INFO - Model successfully loaded.
+2024-10-10 22:40:24,455 - INFO - Starting the application...
+2024-10-10 22:40:28,532 - INFO - Model loaded from disk.
+2024-10-10 22:40:28,533 - INFO - Model successfully loaded.
+2024-10-10 22:41:01,471 - ERROR - Intents data not loaded.
+2024-10-10 22:41:01,471 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Sorry, I don't understand."}
+2024-10-10 22:46:04,725 - INFO - Model loaded from disk.
+2024-10-10 22:46:04,743 - INFO - Intents data loaded.
+2024-10-10 22:46:04,743 - INFO - Model successfully loaded.
+2024-10-10 22:46:20,870 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Hey there! How's your day going?"}
+2024-10-10 22:52:17,214 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': 'Guten tag! What brings you here?'}
+2024-10-10 22:52:30,934 - INFO - User input: What is your name?, Predicted: {'intent': 'creation', 'response': 'The minds behind me are talented developers.'}
+2024-10-10 22:52:47,656 - INFO - User input: Who developed you?, Predicted: {'intent': 'creation', 'response': 'I was brought to life by talented developers.'}
+2024-10-10 22:53:13,387 - INFO - User input: What can you do?, Predicted: {'intent': 'skill', 'response': 'My purpose is to offer advice on anxiety and depression, answer questions about mental health, and engage in supportive conversations. However, I am not a substitute for professional mental healthcare. If you need further assistance, I recommend seeking help from a qualified therapist or counselor.'}
+2024-10-10 22:53:46,083 - INFO - User input: How can you help me?, Predicted: {'intent': 'skill', 'response': 'My purpose is to offer advice on anxiety and depression, answer questions about mental health, and engage in supportive conversations. However, I am not a substitute for professional mental healthcare. If you need further assistance, I recommend seeking help from a qualified therapist or counselor.'}
+2024-10-10 22:54:11,002 - INFO - User input: What is anxiety, Predicted: {'intent': 'anxious', 'response': "I understand. Anxiety can feel like a weight on your shoulders. What's been on your mind?"}
+2024-10-10 22:54:27,862 - INFO - User input: Nothing, Predicted: {'intent': 'neutral-response', 'response': 'Got it. Anything else you want to share?'}
+2024-10-10 22:55:04,236 - INFO - User input: Tell me more about mental health, Predicted: {'intent': 'learn-mental-health', 'response': "It's great you want to learn about mental health. What's your question?"}
+2024-10-10 22:55:39,944 - INFO - User input: How do I know I have mental health issues?, Predicted: {'intent': 'learn-mental-health', 'response': 'Of course, feel free to ask me anything about mental health.'}
+2024-10-10 22:56:06,242 - INFO - User input: How do I know I have mental health issues?, Predicted: {'intent': 'learn-mental-health', 'response': "I'm here to answer your mental health questions. What do you want to know?"}
+2024-10-10 22:56:20,079 - INFO - User input: Depression, Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 22:56:40,108 - INFO - User input: What is depresson?, Predicted: {'intent': 'casual', 'response': 'What else is happening?'}
+2024-10-10 22:56:50,003 - INFO - User input: Massa, Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 22:56:58,062 - INFO - User input: Be wise, Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 22:57:32,913 - INFO - User input: You don't even understand yourself, do you?, Predicted: {'intent': 'about', 'response': "I'm Serinity Bot, an AI therapist here to chat with you."}
+2024-10-10 22:57:55,278 - INFO - User input: Start the conversation then, Predicted: {'intent': 'casual', 'response': 'Nice!'}
+2024-10-10 22:58:02,404 - INFO - User input: Ahhh, Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 22:58:22,168 - INFO - User input: You are just messing with me, Predicted: {'intent': 'hate-me', 'response': "I'm here to assist you, even if there's a misunderstanding. How can I help?"}
+2024-10-10 23:00:34,504 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:34,521 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:34,535 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:34,603 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:34,691 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:34,738 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:34,775 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:34,783 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:34,878 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:34,899 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:35,029 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:35,178 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:35,316 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:35,473 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:00:35,526 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:35,681 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:00:35,750 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:35,814 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:35,873 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Oh I see. Tell me more'}
+2024-10-10 23:00:35,897 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:00:35,934 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:35,978 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 23:00:36,056 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:36,081 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:00:36,160 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,179 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:00:36,234 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Please share more details with me.'}
+2024-10-10 23:00:36,252 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,295 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,342 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:36,443 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,495 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:36,516 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:36,579 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:36,594 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,653 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:36,667 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:36,703 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:36,727 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:36,746 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:36,799 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:36,820 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:36,867 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:36,902 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:36,994 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:37,020 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:00:37,095 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:00:37,214 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:37,325 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:37,450 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:37,617 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:37,723 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Go on, I'm listening."}
+2024-10-10 23:00:37,768 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:37,909 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:00:38,002 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:38,082 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:00:38,167 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:38,251 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:38,335 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:38,427 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:00:38,526 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:38,618 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:38,715 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:38,803 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:38,897 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:38,983 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a lot to handle. Please share more details."}
+2024-10-10 23:00:39,077 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:39,172 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:39,282 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:39,387 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:00:39,527 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:39,622 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:39,731 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:39,830 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:39,931 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:40,031 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:40,134 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:40,232 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:40,333 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:40,429 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:40,530 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:40,633 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:00:40,733 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:40,830 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:40,943 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:41,089 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:41,229 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:41,361 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:41,459 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Feel free to expand on that. I'm listening."}
+2024-10-10 23:00:41,560 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here for you. Tell me more."}
+2024-10-10 23:00:41,672 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:41,778 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:41,889 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:41,992 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Oh I see. Tell me more'}
+2024-10-10 23:00:42,099 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:42,199 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Please share more details with me.'}
+2024-10-10 23:00:42,315 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:42,436 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:42,588 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:42,704 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:42,848 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:42,982 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:43,096 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Oh I see. Tell me more'}
+2024-10-10 23:00:43,218 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:51,452 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:51,506 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:00:51,517 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:51,582 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:00:51,604 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:52,014 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:52,069 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:52,094 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:52,112 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:52,194 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:52,233 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:52,267 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:52,313 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:52,345 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Tell me more about it."}
+2024-10-10 23:00:52,376 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:52,397 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Tell me more about it.'}
+2024-10-10 23:00:52,470 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:52,490 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:52,546 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:52,573 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:52,614 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:52,656 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:52,690 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:00:52,723 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:52,741 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a lot to handle. Please share more details."}
+2024-10-10 23:00:52,781 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's interesting. Please tell me more."}
+2024-10-10 23:00:52,822 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:52,863 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:00:52,901 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:52,942 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:00:52,984 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:53,022 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:53,060 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:53,102 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:00:53,139 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:53,210 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please continue sharing."}
+2024-10-10 23:00:53,367 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:53,441 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here for you. Tell me more."}
+2024-10-10 23:00:53,448 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:53,462 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:53,474 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:53,483 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:53,507 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:53,529 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:53,576 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:53,632 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:53,682 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:00:53,734 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:53,782 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:53,831 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:53,882 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:53,933 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please continue sharing."}
+2024-10-10 23:00:53,989 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:54,045 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:54,105 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Feel free to expand on that. I'm listening."}
+2024-10-10 23:00:54,154 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:54,214 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:54,271 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:54,326 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:54,380 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:54,437 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:00:54,500 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:54,561 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:54,623 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:54,680 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:54,736 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:54,785 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:00:54,844 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:00:54,902 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:54,959 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:55,012 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:55,072 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:55,128 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:55,192 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:55,251 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:00:55,317 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:55,379 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Go on, I'm listening."}
+2024-10-10 23:00:55,444 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:00:55,507 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a lot to handle. Please share more details."}
+2024-10-10 23:00:55,561 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:55,623 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:55,682 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Oh I see. Tell me more'}
+2024-10-10 23:00:55,736 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:55,811 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:55,879 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:55,946 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:56,010 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:56,081 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:56,152 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:56,221 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:56,309 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:56,403 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:56,506 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to hear more about that."}
+2024-10-10 23:00:56,582 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:56,644 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:56,711 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:00:56,780 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:56,845 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:56,916 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:56,978 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's interesting. Please tell me more."}
+2024-10-10 23:00:57,055 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:57,121 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:57,186 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:57,261 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Oh I see. Tell me more'}
+2024-10-10 23:00:57,325 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:57,396 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:57,460 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:00:57,535 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:57,602 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:57,677 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:57,742 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:00:57,802 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:57,874 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:57,943 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Feel free to expand on that. I'm listening."}
+2024-10-10 23:00:58,022 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:58,088 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:58,148 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:58,211 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:00:58,271 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:58,333 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:00:58,398 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:58,472 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:58,543 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Go on, I'm listening."}
+2024-10-10 23:00:58,619 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:00:58,700 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:00:58,773 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:58,850 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Feel free to expand on that. I'm listening."}
+2024-10-10 23:00:58,950 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:59,062 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:59,174 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:00:59,296 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:00:59,396 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:00:59,474 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:00:59,550 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and offer support. Please continue."}
+2024-10-10 23:00:59,636 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:00:59,725 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 23:00:59,803 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:00:59,887 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:00:59,970 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:00,071 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:00,188 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:00,283 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 23:01:00,367 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:00,454 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:00,546 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:00,630 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:00,721 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:00,810 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:00,909 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:00,995 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:01:01,080 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:01,207 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:01,400 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:01,522 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:01,654 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:01:01,744 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:01,845 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:01,929 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:02,032 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:02,123 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:01:02,205 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:02,294 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:02,401 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:02,485 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:02,587 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:02,688 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:02,790 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's interesting. Please tell me more."}
+2024-10-10 23:01:02,900 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:03,002 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Please elaborate. I'd like to hear more."}
+2024-10-10 23:01:03,095 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:03,193 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:03,281 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:03,387 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:03,488 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:03,585 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:03,684 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:03,794 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:03,882 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 23:01:03,973 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here for you. Tell me more."}
+2024-10-10 23:01:04,059 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and offer support. Please continue."}
+2024-10-10 23:01:04,156 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Tell me more about it."}
+2024-10-10 23:01:04,247 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:04,366 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:04,460 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:01:04,569 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:04,676 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:04,785 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:04,885 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:01:05,004 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:05,111 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:05,270 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Feel free to expand on that. I'm listening."}
+2024-10-10 23:01:05,419 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:05,529 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:05,635 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:05,744 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to hear more about that."}
+2024-10-10 23:01:05,868 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:05,979 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:01:06,094 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:06,217 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:06,335 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:01:06,454 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:06,559 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:06,671 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:06,772 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:06,875 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:06,992 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:07,094 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:01:07,215 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:07,329 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:07,444 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:07,564 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:07,671 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:07,780 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:07,880 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:07,999 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:08,103 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:08,217 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:01:08,329 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:08,459 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:08,582 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's interesting. Please tell me more."}
+2024-10-10 23:01:08,691 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:08,806 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:08,904 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:09,014 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a lot to handle. Please share more details."}
+2024-10-10 23:01:09,197 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:09,358 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:01:09,478 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:09,623 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:01:09,752 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:09,877 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:10,009 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:10,159 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:01:10,289 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:10,424 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:10,556 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:10,694 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:12,375 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:13,027 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:13,116 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:13,160 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:13,209 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:13,538 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:13,589 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:01:13,635 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:13,679 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:13,723 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:13,764 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:13,811 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:13,856 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:13,897 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:13,955 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:14,000 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:14,043 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:14,086 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:01:14,193 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:14,245 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please continue sharing."}
+2024-10-10 23:01:14,366 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to understand more about that."}
+2024-10-10 23:01:14,462 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:14,854 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please continue sharing."}
+2024-10-10 23:01:14,986 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:15,072 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:15,125 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:01:15,187 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:15,295 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to hear more about that."}
+2024-10-10 23:01:15,345 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:15,690 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:15,758 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:15,811 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to hear more about that."}
+2024-10-10 23:01:15,863 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's interesting. Please tell me more."}
+2024-10-10 23:01:15,917 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:15,975 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:16,030 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:16,088 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:01:16,149 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to know more about this. Please go on."}
+2024-10-10 23:01:16,196 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:16,261 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:16,322 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:16,403 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:16,468 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:16,519 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:16,566 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:16,618 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:17,075 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:17,146 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:18,394 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:18,542 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:18,724 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:18,908 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:19,650 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:19,779 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:19,902 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:20,020 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:20,763 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a significant issue. Please tell me more."}
+2024-10-10 23:01:20,920 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:21,005 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:21,483 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:21,730 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:21,909 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's intriguing. Could you tell me more?"}
+2024-10-10 23:01:22,084 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:22,269 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:01:22,462 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:22,762 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:23,074 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:23,336 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Tell me more about it.'}
+2024-10-10 23:01:23,424 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:23,510 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'd like to hear more about that."}
+2024-10-10 23:01:23,583 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:23,652 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:23,728 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:23,812 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:23,922 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
+2024-10-10 23:01:24,001 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:24,078 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:24,157 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:24,238 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue."}
+2024-10-10 23:01:24,315 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a lot to handle. Please share more details."}
+2024-10-10 23:01:24,402 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to assist. Please share more with me."}
+2024-10-10 23:01:24,485 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:24,567 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-10 23:01:24,645 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'I see. What else?'}
+2024-10-10 23:01:24,720 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-10 23:01:24,799 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:24,869 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:24,945 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:25,016 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:25,093 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:25,168 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:01:25,244 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:25,320 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Tell me more about it."}
+2024-10-10 23:01:25,401 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:25,484 - INFO - User input: , Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-10 23:01:25,558 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:25,635 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:25,711 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen without judgment. Please share more."}
+2024-10-10 23:01:25,790 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen. Please share more with me."}
+2024-10-10 23:01:25,869 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:01:25,949 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's delve deeper into this. Please share more."}
+2024-10-10 23:01:26,028 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm interested in learning more. Please continue."}
+2024-10-10 23:01:26,106 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to support you. Please share more details."}
+2024-10-10 23:01:26,212 - INFO - User input: , Predicted: {'intent': 'default', 'response': 'Tell me more about it.'}
+2024-10-10 23:01:32,685 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm listening. Tell me more."}
+2024-10-10 23:01:32,697 - INFO - User input: , Predicted: {'intent': 'default', 'response': "Let's explore this further. Please share more details."}
+2024-10-10 23:05:47,989 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ola! How's everything going?"}
+2024-10-10 23:05:47,998 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hello! What can I help you with?'}
+2024-10-10 23:08:38,677 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ola! How's everything going?"}
+2024-10-10 23:08:38,688 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Guten tag! What brings you here?'}
+2024-10-10 23:08:41,147 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ciao! What's on your mind?"}
+2024-10-10 23:08:41,156 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hey! What brings you here today?'}
+2024-10-10 23:09:05,179 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hello there. Tell me how are you feeling today?'}
+2024-10-10 23:09:05,416 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hey! What brings you here today?'}
+2024-10-10 23:11:23,318 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Hi there. What's new with you?"}
+2024-10-10 23:11:23,333 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Howdy! What can I do for you?'}
+2024-10-10 23:18:14,374 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Guten tag! What brings you here?'}
+2024-10-10 23:18:14,384 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ciao! What's on your mind?"}
+2024-10-10 23:21:06,146 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ciao! What's on your mind?"}
+2024-10-10 23:21:06,163 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hi there. What brings you here today?'}
+2024-10-10 23:21:15,896 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hello there. Tell me how are you feeling today?'}
+2024-10-10 23:21:15,933 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hey! What brings you here today?'}
+2024-10-10 23:22:34,685 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hola! How can I help you today?'}
+2024-10-10 23:22:34,685 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ciao! What's on your mind?"}
+2024-10-10 23:24:15,071 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Is anyone there? How can I assist you?'}
+2024-10-10 23:24:15,078 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': "Ola! How's everything going?"}
+2024-10-10 23:24:26,393 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Salut! How can I assist you today?'}
+2024-10-10 23:24:26,422 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hi there. What brings you here today?'}
+2024-10-10 23:26:29,121 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hola! How can I help you today?'}
+2024-10-10 23:26:29,121 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hola! How can I help you today?'}
+2024-10-10 23:27:04,286 - INFO - User input: My name is Leo, How about you?, Predicted: {'intent': 'creation', 'response': 'My development involved advanced AI technologies.'}
+2024-10-10 23:27:21,125 - INFO - User input: What is your name, Predicted: {'intent': 'creation', 'response': 'My origins lie in the minds of my developers.'}
+2024-10-10 23:27:45,548 - INFO - User input: So you don't have name?, Predicted: {'intent': 'hate-you', 'response': "I understand if you're frustrated. Let's work together to find a solution."}
+2024-10-10 23:28:08,076 - INFO - User input: I am not, maybe you are, Predicted: {'intent': 'location', 'response': "I'm like a digital entity, transcending the boundaries of the physical world."}
+2024-10-10 23:28:26,936 - INFO - User input: You are funny, Predicted: {'intent': 'jokes', 'response': "I'm here for meaningful conversations, not jokes."}
+2024-10-10 23:28:53,617 - INFO - User input: Are you that serious?, Predicted: {'intent': 'location', 'response': "I'm like a digital entity, existing in the realm of data and information."}
+2024-10-10 23:29:19,897 - INFO - User input: Aahh, you told me this earlier, Predicted: {'intent': 'repeat', 'response': "Oops, my mistake. Let's explore fresh perspectives."}
+2024-10-10 23:29:33,479 - INFO - User input: Hmm, Predicted: {'intent': 'default', 'response': "I'm interested to know more. Please go on."}
+2024-10-10 23:30:00,323 - INFO - User input: I'm I depressed?, Predicted: {'intent': 'default', 'response': "I'm all ears. Please continue sharing."}
+2024-10-10 23:30:13,740 - INFO - User input: Share what?, Predicted: {'intent': 'casual', 'response': 'Alright then!'}
+2024-10-10 23:42:55,666 - INFO - User input: HI, Predicted: {'intent': 'greeting', 'response': 'Howdy! What can I do for you?'}
+2024-10-10 23:51:57,472 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Great to see you. How do you feel currently?'}
+2024-10-10 23:51:57,487 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hey! What brings you here today?'}
+2024-10-10 23:54:41,594 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': "Hey there! How's your day going?"}
+2024-10-10 23:54:52,779 - INFO - User input: What is mental health, Predicted: {'intent': 'learn-mental-health', 'response': 'Sure thing! What aspects of mental health are you interested in?'}
+2024-10-10 23:55:07,716 - INFO - User input: Explain depression, Predicted: {'intent': 'default', 'response': "Oh okay. Why don't you tell me more about it?"}
+2024-10-10 23:55:32,782 - INFO - User input: Should I tell you about depression?, Predicted: {'intent': 'user-agree', 'response': "You're absolutely correct! Meditation can provide a sanctuary for the mind and foster a deep sense of relaxation and tranquility."}
+2024-10-10 23:56:19,460 - INFO - User input: How is that different from what I said, Predicted: {'intent': 'casual', 'response': "What's next?"}
+2024-10-10 23:56:37,556 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': 'Hi there. What brings you here today?'}
+2024-10-11 00:00:43,728 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hi there. What brings you here today?'}
+2024-10-11 00:00:43,730 - INFO - User input: hi, Predicted: {'intent': 'greeting', 'response': 'Hello! What can I help you with?'}
+2024-10-11 00:01:02,632 - INFO - User input: Hi, Predicted: {'intent': 'greeting', 'response': 'Is anyone there? How can I assist you?'}
+2024-10-11 00:01:36,072 - INFO - User input: I'm here, Predicted: {'intent': 'default', 'response': "It's important to talk about this. Please continue."}
+2024-10-11 00:01:53,321 - INFO - User input: Talk about what?, Predicted: {'intent': 'casual', 'response': 'I hear you!'}
+2024-10-11 00:02:04,539 - INFO - User input: Are you ok?, Predicted: {'intent': 'location', 'response': 'My whereabouts are in the realm of virtual reality, where possibilities are endless.'}
+2024-10-11 00:04:13,579 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to help. Please continue sharing."}
+2024-10-11 00:04:17,168 - INFO - User input: , Predicted: {'intent': 'default', 'response': "That's a complex topic. Please share more details."}
+2024-10-11 00:04:20,794 - INFO - User input: , Predicted: {'intent': 'default', 'response': "I'm here to listen and support you. Please go on."}
